@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Angular
+- 🌱 I’m currently learning Angular and Nuxt
+- ⚡ Fun fact: Love animal
 <!--
 **pphuongdut/pphuongdut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
