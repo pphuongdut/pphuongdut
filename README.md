@@ -2,7 +2,7 @@
 <h3 align="center">A cute frontend developer from Da Nang - Viet Nam</h3>
 
 
-- 🌱 I’m currently working with **Angular, React**
+- 🌱 I’m currently working with **Angular **
 - ⚡ Fun fact: Love animal
 - 📫 How to reach me **tranphiphuong2763@gmail.com**
 
